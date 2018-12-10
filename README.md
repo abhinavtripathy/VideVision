@@ -1,4 +1,4 @@
-# VideVision
+# VideVision @ HackHolyoke
 Having an eye watch over you, when you aren't watching.
 
 ## Inspiration
