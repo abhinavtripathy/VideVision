@@ -1,4 +1,7 @@
-# VideVision @ HackHolyoke (Salesforce sponsor prize for best use of their cloud)
+# VideVision @ HackHolyoke 
+
+## Prize:Salesforce sponsor prize for best use of their cloud
+
 Having an eye watch over you, when you aren't watching.
 
 ## Inspiration
