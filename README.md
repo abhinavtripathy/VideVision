@@ -2,6 +2,8 @@
 
 Prize: Salesforce sponsor prize for best use of their cloud
 
+Languages/Technologies Used: JavaScript, Node.js, PHP, Google Cloud Vision, Twillio SMS API, Google Maps/Heatmaps, Google Geocoding, Salesforce Database 
+
 Having an eye watch over you, when you aren't watching.
 
 ## Inspiration
